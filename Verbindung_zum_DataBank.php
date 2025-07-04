@@ -1,7 +1,7 @@
 <?php
-$host = 'localhost';
-$dbname = 'karteikarten';
-$user = 'root';
+$host = '';
+$dbname = '';
+$user = '';
 $pass = ''; // Standard XAMPP
 
 try {
